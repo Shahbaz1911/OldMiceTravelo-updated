@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^4nights\-5days\.keralatourpackages\.online$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.4nights\-5days\.keralatourpackages\.online$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/keralatourpackages\.online\/kerala\/4nights\-5days" [R=301,L]
+

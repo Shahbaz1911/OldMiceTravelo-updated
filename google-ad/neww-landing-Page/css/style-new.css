@@ -1,0 +1,143 @@
+
+/* GOOGLE FONTS */ 
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700italic,700,500italic,400italic,500,300italic,300,100italic,100);
+body {font-family: "Roboto", sans-serif;overflow: hidden;} 
+* {	margin: 0px;padding: 0px;box-sizing: border-box;}
+img {border: 0px;}
+a,a:hover{text-decoration: none !important;}
+ul,li {	list-style: none;margin-bottom: 0px;}
+h1,h2,h3,h4,h5,h6 {margin 0px;padding: 0; line-height: 0.8;} 
+p {margin: 0 !important; padding: 0; line-height: 1.8;}   
+.banner-bg-02 {	background: url('../images/header-bg-02.jpg') no-repeat top center;	background-size: cover;height: 100vh;padding:0 0 20px 0;}
+.banner-bg-02 .top-header {background: #fff;padding: 10px 0}
+.form {width: 460px;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%); color: #24271a;}
+.form h1 {font-size: 25px;font-weight: 600;text-align: center;}
+.form p {text-align: center;}
+.form-contant {background: #fff;margin: 0px;padding: 0px;}
+
+
+
+
+#regform {
+  background-color: #ffffff;
+  margin: 30px auto;
+  font-family: Raleway;
+  padding:15px;
+  width: 100%;
+  min-width: 300px;
+}
+
+#regform h1 {
+  text-align: center;
+  margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.best {
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 20px;
+    font-weight: bold;
+}
+
+#regform input,select {
+  padding: 10px;
+  width: 100%;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #aaaaaa;
+  margin-bottom: 25px;
+}
+
+#regform select {
+  padding: 10px;
+  width: 100%;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #aaaaaa;
+  margin-bottom: 25px;
+}
+
+
+
+/* Mark input boxes that gets an error on validation: */
+#regform input.invalid {
+  background-color: #ffdddd;
+}
+
+/* Hide all steps by default: */
+#regform .tab {
+  display: none;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 17px;
+  font-family: Raleway;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+#prevBtn {
+  background-color: #bbbbbb;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none;  
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.step.active {
+  opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+.step.finish {
+  background-color: #4CAF50;
+}
+
+
+@media all and (min-width:460px) and (max-width:991px) {	
+    
+    .banner-bg-02 .top-header {background: #fff;padding: 5px 0}
+    .logo{margin:0 auto;width: 165px;}
+    .form {width: 550px;margin-top:15px; }
+  
+	}
+
+@media all and (min-width:330px) and (max-width:460px) {	
+    
+    .banner-bg-02 .top-header {background: #fff;padding: 5px 0}
+    .logo{margin:0 auto;width: 165px;}
+    .form {width: 320px;margin-top:15px; }
+  
+	}
+
+@media all and (min-width:0px) and (max-width:329px) {	
+    
+    .banner-bg-02 .top-header {background: #fff;padding: 5px 0}
+    .logo{margin:0 auto;width: 165px;}
+    .form {width: 300px;margin-top:15px; }
+  
+	}
+
+
+
+
+
+
+
