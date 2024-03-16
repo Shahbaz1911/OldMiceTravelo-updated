@@ -258,7 +258,7 @@
                           <img
                             width="430"
                             height="305"
-                            src="../images/kashmir/pexels-aadil-7650178.jpg"
+                            src="../images/tour/kashmir-tour/pexels-aadil-7650178.jpg"
                             alt="Discover Himachal"
                             title="Discover Himachal"
                           />
@@ -377,7 +377,7 @@
                           <img
                             width="430"
                             height="305"
-                            src="../images/kashmir/pexels-imad-clicks-11203203.jpg"
+                            src="../images/tour/kashmir-tour/pexels-imad-clicks-11203203.jpg"
                             alt="Discover Himachal"
                             title="Discover Himachal"
                           />
@@ -461,7 +461,7 @@
                           <img
                             width="430"
                             height="305"
-                            src="../images/kashmir/2.png"
+                            src="../images/tour/kashmir-tour/2.png"
                             alt="Discover Himachal"
                             title="Discover Himachal"
                           />
@@ -543,7 +543,7 @@
                           <img
                             width="430"
                             height="305"
-                            src="../images/kashmir/1 .png"
+                            src="../images/tour/kashmir-tour/1 .png"
                             alt="Discover Himachal"
                             title="Discover Himachal"
                           />
@@ -620,12 +620,12 @@
                   <li class="item-tour col-md-6 col-sm-6 product">
                     <div class="item_border item-product">
                       <div class="post_images">
-                        <a href="7n-8d-him.php">
+                        <a href="Tour-packages/6n-7d-rediscover-kashmir.php">
                           <span class="price">INR 26,250 Per Person</span>
                           <img
                             width="430"
                             height="305"
-                            src="../images/kashmir/3.png"
+                            src="../images/tour/kashmir-tour/3.png"
                             alt="Discover Himachal"
                             title="Discover Himachal"
                           />
@@ -669,7 +669,7 @@
                       <div class="wrapper_content">
                         <div class="post_title">
                           <h4>
-                            <a href="7n-8d-him.php" rel="bookmark"
+                            <a href="Tour-packages/6n-7d-rediscover-kashmir.php" rel="bookmark"
                               >Rediscover Kashmir
                             </a>
                           </h4>
@@ -692,7 +692,7 @@
                         </div>
                         <a
                           rel="nofollow"
-                          href="7n-8d-him.php"
+                          href="Tour-packages/6n-7d-rediscover-kashmir.php"
                           class="button product_type_tour_phys add_to_cart_button"
                           >Read more</a
                         >
@@ -702,12 +702,12 @@
                   <li class="item-tour col-md-6 col-sm-6 product">
                     <div class="item_border item-product">
                       <div class="post_images">
-                        <a href="7n-8d-him.php">
+                        <a href="Tour-packages/7n-8d-rediscover-kashmir.php">
                           <span class="price">INR 30,250 Per Person</span>
                           <img
                             width="430"
                             height="305"
-                            src="../images/kashmir/4.png"
+                            src="../images/tour/kashmir-tour/4.png"
                             alt="Discover Himachal"
                             title="Discover Himachal"
                           />
@@ -751,12 +751,12 @@
                       <div class="wrapper_content">
                         <div class="post_title">
                           <h4>
-                            <a href="7n-8d-him.php" rel="bookmark"
+                            <a href="Tour-packages/7n-8d-rediscover-kashmir.php" rel="bookmark"
                               >Rediscover Kashmir
                             </a>
                           </h4>
                         </div>
-                        <span class="post_date">06 NIGHTS / 07 DAYS </span>
+                        <span class="post_date">07 NIGHTS / 08 DAYS </span>
                         <div class="description">
                           <p>
                             Srinagar (1 Night) - Pahalgam (2 Nights) - Gulmarg
@@ -774,7 +774,7 @@
                         </div>
                         <a
                           rel="nofollow"
-                          href="7n-8d-him.php"
+                          href="Tour-packages/7n-8d-rediscover-kashmir.php"
                           class="button product_type_tour_phys add_to_cart_button"
                           >Read more</a
                         >
@@ -784,12 +784,12 @@
                   <li class="item-tour col-md-6 col-sm-6 product">
                     <div class="item_border item-product">
                       <div class="post_images">
-                        <a href="8n-9d-him.php">
+                        <a href="Tour-packages/7n-8d-Vaishnodevi-Darshan-Kashmir.php">
                           <span class="price">INR 30,100 Per Person</span>
                           <img
                             width="430"
                             height="305"
-                            src="../images/kashmir/5.png"
+                            src="../images/tour/kashmir-tour/5.png"
                             alt="Discover Himachal"
                             title="Discover Himachal"
                           />
@@ -833,7 +833,7 @@
                       <div class="wrapper_content">
                         <div class="post_title">
                           <h4>
-                            <a href="8n-9d-him.php" rel="bookmark"
+                            <a href="Tour-packages/7n-8d-Vaishnodevi-Darshan-Kashmir.php" rel="bookmark"
                               >Vaishnodevi Darshan with Kashmir</a
                             >
                           </h4>
@@ -856,7 +856,7 @@
                         </div>
                         <a
                           rel="nofollow"
-                          href="8n-9d-him.php"
+                          href="Tour-packages/7n-8d-Vaishnodevi-Darshan-Kashmir.php"
                           class="button product_type_tour_phys add_to_cart_button"
                           >Read more</a
                         >
@@ -866,12 +866,12 @@
                   <li class="item-tour col-md-6 col-sm-6 product">
                     <div class="item_border item-product">
                       <div class="post_images">
-                        <a href="9n-10d-him.php">
+                        <a href="Tour-packages/8n-9d-Best-of-Kashmir.php">
                           <span class="price">INR 32,900 Per Person</span>
                           <img
                             width="430"
                             height="305"
-                            src="../images/kashmir/6.png"
+                            src="../images/tour/kashmir-tour/6.png"
                             alt="Discover Himachal"
                             title="Discover Himachal"
                           />
@@ -915,7 +915,7 @@
                       <div class="wrapper_content">
                         <div class="post_title">
                           <h4>
-                            <a href="9n-10d-him.php" rel="bookmark"
+                            <a href="Tour-packages/8n-9d-Best-of-Kashmir.php" rel="bookmark"
                               >Best of Kashmir</a
                             >
                           </h4>
@@ -938,83 +938,14 @@
                         </div>
                         <a
                           rel="nofollow"
-                          href="9n-10d-him.php"
+                          href="Tour-packages/8n-9d-Best-of-Kashmir.php"
                           class="button product_type_tour_phys add_to_cart_button"
                           >Read more</a
                         >
                       </div>
                     </div>
                   </li>
-                  <!-- <li class="item-tour col-md-6 col-sm-6 product">
-								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="10n-11d-him.php">
-											<span class="price">INR 25,500 Per Person</span>
-											<img width="430" height="305" src="../images/tour/himachal-tour/tour-9.jpg" alt="Discover Himachal" title="Discover Himachal">
-										</a>
-										<div class="group-icon">
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Private Cab"><i class="flaticon-cart-1"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Meals"><i class="flaticon-food"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Sightseeing"><i class="flaticon-eye"></i></a>											
-										</div>
-									</div>
-									<div class="wrapper_content">
-										<div class="post_title"><h4>
-											<a href="10n-11d-him.php" rel="bookmark">Himachal Pradesh</a>
-										</h4></div>
-										<span class="post_date">10 NIGHTS 11 DAYS</span>
-										<div class="description">
-											<p>Shimla (2 Nights) -  Manali (3 Nights) -  Dharmshala (2 Night)  -  Dalhousie (2 Night) -  Amritsar (1 Night)</p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star-o"></i>
-										</div>
-										<a rel="nofollow" href="10n-11d-him.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
-									</div>
-								</div>
-							</li> -->
-                  <!-- <li class="item-tour col-md-6 col-sm-6 product">
-								<div class="item_border item-product">
-									<div class="post_images">
-										<a href="11n-12d-him.php">
-											<span class="price">INR 28,000 Per Person</span>
-											<img width="430" height="305" src="../images/tour/himachal-tour/tour-10.jpg" alt="Discover Himachal" title="Discover Himachal">
-										</a>
-										<div class="group-icon">
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Private Cab"><i class="flaticon-cart-1"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Meals"><i class="flaticon-food"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Sightseeing"><i class="flaticon-eye"></i></a>											
-										</div>
-									</div>
-									<div class="wrapper_content">
-										<div class="post_title"><h4>
-											<a href="11n-12d-him.php" rel="bookmark">Himachal Pradesh</a>
-										</h4></div>
-										<span class="post_date">11 NIGHTS 12 DAYS </span>
-										<div class="description">
-											<p>Chandigarh (1 Night) - Shimla (2 Nights) -  Manali (3 Nights) -  Dharmshala (2 Night)  -  Dalhousie (2 Night) -  Amritsar (1 Night)</p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star-o"></i>
-										</div>
-										<a rel="nofollow" href="11n-12d-him.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
-									</div>
-								</div>
-							</li> -->
+                 
                 </ul>
                 <div class="navigation paging-navigation" role="navigation">
                   <ul class="page-numbers">
@@ -1216,11 +1147,13 @@
                 <h3 class="widget-title">Our Menu</h3>
                 <div class="textwidget">
                   <ul class="menu list-arrow">
-                    <li><a href="../about-us.php">About us</a></li>
-                    <li><a href="../happy.php">Happy Customers</a></li>
-                    <li><a href="../career.php">Career</a></li>
-                    <li><a href="../privacy-policy.php">Privacy Policy</a></li>
-                    <li><a href="../contact.php">Contact US</a></li>
+                   <li><a href="#">Career</a></li>	
+								
+								<li><a href="happy.php">Happy Customers</a></li>
+								<li><a href="payment-policy.php">Payment Policy</a></li>
+															
+								<li><a href="cancellation-policy.php">Cancellation Policy</a></li>
+								<li><a href="refund-policy.php">Refund policy</a></li>
                   </ul>
                 </div>
               </aside>
@@ -1287,7 +1220,7 @@
               <aside id="text-5" class="widget_text">
                 <div class="textwidget">
                   <ul class="footer_menu">
-                    <li><a href="#">Terms of Use</a></li>
+                    <li><a href="terms-of-use.php">Terms of Use</a></li>
                     <li>|</li>
                     <li><a href="../privacy-policy.php">Privacy Policy</a></li>
                     <li>|</li>

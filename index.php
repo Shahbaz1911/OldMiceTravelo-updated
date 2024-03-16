@@ -161,35 +161,37 @@
 			<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/tour/home-page-tour/1.png" class="d-block w-100" alt="...">
+      <img src="images/tour/caraosel-tour/1.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="images/tour/home-page-tour/2.png" class="d-block w-100" alt="...">
+      <img src="images/tour/caraosel-tour/2.png" class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item">
-      <img src="images/tour/home-page-tour/3.png" class="d-block w-100" alt="...">
-    </div>
+    
 	 <div class="carousel-item">
-      <img src="images/tour/home-page-tour/4.png" class="d-block w-100" alt="...">
+      <img src="images/tour/caraosel-tour/4.png" class="d-block w-100" alt="...">
     </div>
      <div class="carousel-item">
-      <img src="images/tour/home-page-tour/5.png" class="d-block w-100" alt="...">
+      <img src="images/tour/caraosel-tour/5.png" class="d-block w-100" alt="...">
     </div>
 	 <div class="carousel-item">
-      <img src="images/tour/home-page-tour/6.png" class="d-block w-100" alt="...">
+      <img src="images/tour/caraosel-tour/6.png" class="d-block w-100" alt="...">
     </div>
-	 <!-- <div class="carousel-item">
-      <img src="images/tour/home-page-tour/7.png" class="d-block w-100" alt="...">
-    </div> -->
-	 <!-- <div class="carousel-item">
-      <img src="images/tour/home-page-tour/8.png" class="d-block w-100" alt="...">
-    </div> -->
-	 <div class="carousel-item">
-      <img src="images/tour/home-page-tour/9.png" class="d-block w-100" alt="...">
+	<div class="carousel-item">
+      <img src="images/tour/caraosel-tour/3.png" class="d-block w-100" alt="...">
     </div>
 	 <div class="carousel-item">
-      <img src="images/tour/home-page-tour/10.png" class="d-block w-100" alt="...">
+      <img src="images/tour/caraosel-tour/7.png" class="d-block w-100" alt="...">
     </div>
+	 <div class="carousel-item">
+      <img src="images/tour/caraosel-tour/8.png" class="d-block w-100" alt="...">
+    </div>
+	 <div class="carousel-item">
+      <img src="images/tour/caraosel-tour/9.png" class="d-block w-100" alt="...">
+    </div>
+	 <div class="carousel-item">
+      <img src="images/tour/caraosel-tour/10.png" class="d-block w-100" alt="...">
+    </div>
+
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -336,7 +338,7 @@
 				</div>
 			</div>
 
-	<div class="padding-top-6x padding-bottom-6x section-background" style="background-image:url(images/home/bg-popular.jpg)">
+	<!-- <div class="padding-top-6x padding-bottom-6x section-background" style="background-image:url(images/home/bg-popular.jpg)">
 				<div class="container">
 					<div class="shortcode_title text-white title-center title-decoration-bottom-center">
 						<div class="title_subtitle">TAKE A LOOK AT OUR</div>
@@ -562,7 +564,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="section-white padding-top-6x padding-bottom-6x tours-type">
 				<div class="container">
 					<div class="shortcode_title title-center title-decoration-bottom-center">
@@ -678,7 +680,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="section-white padding-top-6x padding-bottom-6x">
+			<!-- <div class="section-white padding-top-6x padding-bottom-6x">
 				<div class="container">
 					<div class="shortcode_title title-center title-decoration-bottom-center">
 						<h3 class="title_primary">DEALS AND DISCOUNTS</h3><span class="line_after_title"></span>
@@ -794,7 +796,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 
 			<div class="bg__shadow padding-top-6x padding-bottom-6x section-background" style="background-image:url(images/home/bg-pallarax.jpg)">
 				<div class="container">
@@ -802,8 +804,8 @@
 						<div class="col-sm-2"></div>
 						<div class="col-sm-8">
 							<div class="discounts-tour">
-								<h3 style="color:#ffffff" class="discounts-title">SPECIAL TOUR IN APRIL, DISCOVER KERALA FOR 100 CUSTOMERS WITH
-									<span>DISCOUNT 50%</span></h3>
+								<h3 style="color:#ffffff" class="discounts-title">SPECIAL TOUR FOR FIXED DEPARTURE FOR 100 CUSTOMERS 
+									<span>Kashmir,Nanital, Banaras, Mallikarjuna Jyotirlinga Temple</span></h3>
 								<span class="line" style="color:#ffffff"></span>
 								<p style="color:#ffffff">It’s limited seating! Hurry up</p>
 								<div class="row centered text-center" id="myCounter"></div>
@@ -958,18 +960,20 @@
 								<li><a href="#">Travel News</a></li>
 								<li><a href="#">About Us</a></li>
 								<li><a href="privacy-policy.php">Privacy Policy</a></li>
-								<li><a href="#">Contact Us</a></li>
+								<li><a href="contact.php">Contact Us</a></li>
 							</ul>
 						</div>
 					</aside>
 					<aside class="col-sm-3 widget_text"><h3 class="widget-title">Our Menu</h3>
 						<div class="textwidget">
 							<ul class="menu list-arrow">
-								<li><a href="about-us.php">About us</a></li>
+								<li><a href="#">Career</a></li>	
+								
 								<li><a href="happy.php">Happy Customers</a></li>
-								<li><a href="career.php">Career</a></li>								
-								<li><a href="privacy-policy.php">Privacy Policy</a></li>
-								<li><a href="contact.php">Contact US</a></li>
+								<li><a href="payment-policy.php">Payment Policy</a></li>
+															
+								<li><a href="cancellation-policy.php">Cancellation Policy</a></li>
+								<li><a href="refund-policy.php">Refund policy</a></li>
 							</ul>
 						</div>
 					</aside>
@@ -992,13 +996,13 @@
 		<div class="container wrapper-copyright">
 			<div class="row">
 				<div class="col-sm-6">
-					<div><p>Copyright © 2018 Mice Travelo. All Rights Reserved.</p></div>
+					<div><p>Copyright © 2013 Mice Travelo. All Rights Reserved.</p></div>
 				</div>
 				<div class="col-sm-6">
 					<aside id="text-5" class="widget_text">
 						<div class="textwidget">
 							<ul class="footer_menu">
-								<li><a href="#">Terms of Use</a></li>
+								<li><a href="terms-of-use.php">Terms of Use</a></li>
 								<li>|</li>
 								<li><a href="privacy-policy.php">Privacy Policy</a></li>
 								<li>|</li>

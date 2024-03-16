@@ -211,31 +211,31 @@ if($_POST["submit"]) {
 							<div id="slider" class="flexslider">
 								<ul class="slides">
 									<li>
-										<a href="../../images/kashmir/1 .png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/1 .png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/1 .png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/1 .png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
-										<a href="../../images/kashmir/2.png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/2.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/2.png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/2.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
-										<a href="../../images/kashmir/3.png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/3.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/3.png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/3.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
-										<a href="../../images/kashmir/4.png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/4.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/4.png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/4.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
-										<a href="../../images/kashmir/5.png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/5.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/5.png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/5.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
-										<a href="../../images/kashmir/6.png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/6.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/6.png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/6.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
-										<a href="../../images/kashmir/2.png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/2.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/2.png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/2.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
-										<a href="../../images/kashmir/3.png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/3.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/3.png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/3.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									<li>
-										<a href="../../images/kashmir/4.png" class="swipebox" title=""><img width="813" height="384" src="../../images/kashmir/4.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
+										<a href="../../images/tour/kashmir-tour/4.png" class="swipebox" title=""><img width="813" height="384" src="../../images/tour/kashmir-tour/4.png" class="attachment-shop_single size-shop_single wp-post-image" alt="" title="" draggable="false"></a>
 									</li>
 									
 									
@@ -244,31 +244,31 @@ if($_POST["submit"]) {
 							<div id="carousel" class="flexslider thumbnail_product">
 								<ul class="slides">
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/mountains-2689450_1280.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/mountains-2689450_1280.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/2.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/2.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/3.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/3.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/4.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/4.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/5.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/5.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/6.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/6.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/2.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/2.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/3.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/3.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									<li>
-										<img width="100" height="100" src="../../images/kashmir/4.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
+										<img width="100" height="100" src="../../images/tour/kashmir-tour/4.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" title="" draggable="false">
 									</li>
 									
 								</ul>
@@ -521,7 +521,7 @@ Arrive Delhi by morning 06:00 am.</p>
 									</div>  
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-price-tab">
 										<table id="customers">
-											<img src="../../images/kashmir/tour-price/mystique-kashmir.png" alt="">
+											<img src="../../images/tour-package-price/kashmir/mystique-kashmir.png" alt="">
 
 											<!-- <tr>
 											<th>Hotels</th>
@@ -559,7 +559,7 @@ Arrive Delhi by morning 06:00 am.</p>
 											<div class="post_images">
 												<a href="4n-5d-magical-kashmir.php">
 													<span class="price">17,950 Per person</span>
-													<img width="950" height="700" src="../../images/kashmir/pexels-imad-clicks-11203203.jpg" alt="Discover Himachal" title="Discover Himachal">
+													<img width="950" height="700" src="../../images/tour/kashmir-tour/" alt="Discover Himachal" title="Discover Himachal">
 												</a>
 												<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -594,7 +594,7 @@ Arrive Delhi by morning 06:00 am.</p>
 											<div class="post_images">
 												<a href="5n-6d-explore-kashmir.php">
 													<span class="price">INR 21,450 Per person</span>
-													<img width="950" height="700" src="../../images/kashmir/2.png" alt="Discover Himachal" title="Discover Himachal">
+													<img width="950" height="700" src="../../images/tour/kashmir-tour/2.png" alt="Discover Himachal" title="Discover Himachal">
 												</a>
 												<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -628,12 +628,12 @@ Arrive Delhi by morning 06:00 am.</p>
 									<li class="item-tour col-md-4 col-sm-6 product">
 										<div class="item_border item-product">
 											<div class="post_images">
-												<a href="7n-8d-him.php">
+												<a href="6n-7d-rediscover-kashmir.php">
 											<span class="price">INR 26,250 Per person
 												
 											</span>
 													<span class="onsale">Sale!</span>
-													<img width="950" height="700" src="../../images/kashmir/mystique.png" alt="Discover Himachal" title="Discover Himachal">
+													<img width="950" height="700" src="../../images/tour/kashmir-tour/mystique.png" alt="Discover Himachal" title="Discover Himachal">
 												</a>
 												<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -644,7 +644,7 @@ Arrive Delhi by morning 06:00 am.</p>
 											</div>
 											<div class="wrapper_content">
 												<div class="post_title"><h4>
-													<a href="7n-8d-him.php" rel="bookmark">Rediscover Kashmir</a>
+													<a href="6n-7d-rediscover-kashmir.php" rel="bookmark">Rediscover Kashmir</a>
 												</h4></div>
 												<span class="post_date">06 NIGHTS / 07 DAYS  </span>
 												<div class="description">
@@ -660,7 +660,7 @@ Arrive Delhi by morning 06:00 am.</p>
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star-o"></i>
 												</div>
-												<a rel="nofollow" href="7n-8d-him.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+												<a rel="nofollow" href="6n-7d-rediscover-kashmir.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 											</div>
 										</div>
 									</li>									
@@ -834,7 +834,7 @@ Arrive Delhi by morning 06:00 am.</p>
 													<a href="../kashmir/kashmir.php" rel="bookmark">Kashmir</a>
 												</h3></div>
 												<div class="item_price">
-										<span class="price">INR 7,500 Per person
+										<span class="price">INR 15,250 Per person
 										</span>
 												</div>
 											</div>

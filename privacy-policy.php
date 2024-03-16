@@ -73,8 +73,8 @@
 				</div>
 				<div class="width-logo sm-logo">
 					<a href="" title="Travel" rel="home">
-						<img src="images/logo.png" alt="Logo" width="147" height="58" class="logo_transparent_static">
-						<img src="images/logo_sticky.png" alt="Sticky logo" width="147" height="58" class="logo_sticky">
+						<img src="images/Full Logo with 9fame.png" alt="Logo" width="147" height="58" class="logo_transparent_static">
+						<img src="images/Full Logo-sticky.png" alt="Sticky logo" width="147" height="58" class="logo_sticky">
 					</a>
 				</div>
 				<nav class="width-navigation">
@@ -220,11 +220,13 @@
 					<aside class="col-sm-3 widget_text"><h3 class="widget-title">Our Menu</h3>
 						<div class="textwidget">
 							<ul class="menu list-arrow">
-								<li><a href="about-us.php">About us</a></li>
-								<li><a href="#">Happy Customers</a></li>
-								<li><a href="career.php">Career</a></li>								
-								<li><a href="privacy-policy.php">Privacy Policy</a></li>
-								<li><a href="contact.php">Contact US</a></li>
+								<li><a href="career.php">Career</a></li>	
+								
+								<li><a href="happy.php">Happy Customers</a></li>
+								<li><a href="payment-policy.php">Payment Policy</a></li>
+															
+								<li><a href="cancellation-policy.php">Cancellation Policy</a></li>
+								<li><a href="refund-policy.php">Refund policy</a></li>
 						</ul>
 						</div>
 					</aside>
@@ -253,7 +255,7 @@
 					<aside id="text-5" class="widget_text">
 						<div class="textwidget">
 							<ul class="footer_menu">
-								<li><a href="#">Terms of Use</a></li>
+								<li><a href="terms-of-use.php">Terms of Use</a></li>
 								<li>|</li>
 								<li><a href="privacy-policy.php">Privacy Policy</a></li>
 								<li>|</li>
